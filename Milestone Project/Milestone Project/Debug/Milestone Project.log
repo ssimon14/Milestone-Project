@@ -1,0 +1,27 @@
+﻿  Project.c
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(36,40): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(36,40): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(37,40): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(37,40): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(38,37): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(38,37): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(39,37): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(39,37): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(28,6): warning C4101: 'attempts': unreferenced local variable
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(71,150): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(71,150): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(72,125): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(72,125): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(73,118): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(73,118): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(74,98): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(74,98): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(105,31): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(105,31): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(106,36): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(106,36): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(107,34): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(107,34): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(108,33): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Ssimo\source\repos\Milestone Project\Milestone Project\Project.c(108,33): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Milestone Project.vcxproj -> C:\Users\Ssimo\source\repos\Milestone Project\Debug\Milestone Project.exe
